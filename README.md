@@ -9,14 +9,11 @@
 ![](mnit2.PNG)
 ![](moshna.PNG)
 ![](moshna2.PNG)
-![](rekla.PNG)
-![](rekla2.PNG)
 ![](tamo.PNG)
 ![](tamo2.PNG)
 ![](goremyshnaya.PNG)
 ![](goremyshnaya2.PNG)
 2.Мнить IPM -0,159
-Рекла IPM-0,222
 Мошна IPM-0,215
 Горемышная IPM-0,014
 Тамо IPM-3,108
