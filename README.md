@@ -13,7 +13,7 @@
 ![](tamo2.png)
 ![](goremyshnaya.png)
 ![](goremyshnaya2.png)
-![](lemmatizirovanny.png)
+![](lemm.png)
 2.Мнить IPM -0,159
 
 Мошна IPM-0,215
