@@ -1,4 +1,5 @@
 # HW3
+![](lemm.png)
 ![](img1.png)
 ![](img2.png)
 ![](img3.png)
@@ -13,7 +14,7 @@
 ![](tamo2.png)
 ![](goremyshnaya.png)
 ![](goremyshnaya2.png)
-![](lemm.png)
+
 2.Мнить IPM -0,159
 
 Мошна IPM-0,215
